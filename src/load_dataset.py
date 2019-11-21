@@ -25,5 +25,5 @@ class Sampler_hdf5_news_cut(object):
         selected_category = np.random.choice(len(self.group), 1, self.category_prob)[0]
         news_selected_category = np.random.choice(len(self.dataset[selected_category]), 1)[0]
 
-        index = self.rs.randint(0, len(self.dataset[selected_category][news_selected_category]) - length + 1)
+        index = self.rs.randint(0, abs(len(self.dataset[selected_category][news_selected_category]) - length + 1))
         return self.dataset[selected_category][news_selected_category][index:length+index]
