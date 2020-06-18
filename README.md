@@ -1,3 +1,7 @@
+활동내용<br>
+https://inspirit941.tistory.com/entry/성균관대-AI로-글쓰기-해커톤-OpenAI-GPT-2-한글-transfer-learning-작업기-1<br>
+https://inspirit941.tistory.com/entry/성균관대-AI로-글쓰기-해커톤-OpenAI-GPT-2-한글-transfer-learning-작업기-2<br>
+
 # gpt-2
 
 Code from the paper ["Language Models are Unsupervised Multitask Learners"](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf).
