@@ -28,7 +28,7 @@ matplotlib==3.0.3
 mock==3.0.5
 nltk==3.4.5
 numba==0.41.0
-numpy==1.16.1
+numpy==1.22.0
 parso==0.5.1
 pexpect==4.7.0
 pickleshare==0.7.5
